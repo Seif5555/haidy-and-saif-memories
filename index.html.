@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ذكريات سيف و هايدي الجميلة</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>أهلاً بيك في عالمنا</h1>
+    <p>هنا كل لحظة بينا هتكون حاضرة.</p>
+
+    <button id="loveButton">أنا بحبك!</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
